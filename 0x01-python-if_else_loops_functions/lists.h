@@ -1,4 +1,4 @@
-fndef LISTS_H
+#ifndef LISTS_H
 #define LISTS_H
 
 /**
@@ -9,6 +9,7 @@ fndef LISTS_H
  * Description: singly linked list node structure
  *
  */
+
 typedef struct listint_s
 {
     int n;
