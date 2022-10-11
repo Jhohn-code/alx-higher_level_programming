@@ -1,1 +1,1 @@
-This is ALX task 0x06-python-classes
+This is ALX task for 0x06-python-classes 
